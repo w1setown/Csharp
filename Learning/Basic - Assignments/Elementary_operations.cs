@@ -1,6 +1,4 @@
-using System;
 
-namespace Elementary_operations
 {
     internal class Program
     {
