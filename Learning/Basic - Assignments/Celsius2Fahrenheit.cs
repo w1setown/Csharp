@@ -1,21 +1,29 @@
-﻿namespace Basic___Exercises
+namespace Basic___Exercises
 {
-    internal class Program
+    internal class CelsiusToFahrenheitProgram
     {
         static void Main(string[] args)
         {
-            // The Celsius to Fahrenheit code has been removed.
+            Console.Write("Please enter the temperature in Celsius: ");
+            double celsius = double.Parse(Console.ReadLine());
 
-            // Uncomment the following line if you want to use the AddAndMultiply method
-            Console.WriteLine(AddAndMultiply(2, 4, 5));
+            double fahrenheit = ConvertedTemperature(celsius);
+            if (fahrenheit != double.MinValue)
+            {
+                Console.WriteLine($"Temp is: {fahrenheit}°F");
+            }
         }
 
-        // | Add two numbers
-        static int AddAndMultiply(int a, int b, int c)
+        static double ConvertedTemperature(double celsius)
         {
-            int output = 0;
-            output = (a + b) * c;
-            return output;
+            if (celsius < -273.15)
+            {
+                Console.WriteLine($"ERROR: {celsius}°C is below absolute zero!");
+                return double.MinValue; // Indicate an error condition
+            }
+
+            double fahrenheit = (celsius * 9 / 5) + 32;
+            return fahrenheit;
         }
     }
 }
