@@ -1,4 +1,4 @@
-namespace Basic___Exercises
+
 {
     internal class CelsiusToFahrenheitProgram
     {
