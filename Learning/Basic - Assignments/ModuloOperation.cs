@@ -4,7 +4,7 @@ namespace Modulo_operations
     {
         static void Main(string[] args)
         {
-            // Prompt the user for input
+            // Input
             Console.WriteLine("Tilføj 1. integer:");
             int a = int.Parse(Console.ReadLine());
 
@@ -14,7 +14,6 @@ namespace Modulo_operations
             Console.WriteLine("Tilføj 3. integer:");
             int c = int.Parse(Console.ReadLine());
 
-            // Call the ModuloOperation method with user inputs
             int result = ModuloOperation(a, b, c);
             Console.WriteLine($"The result is: {result}");
         }
