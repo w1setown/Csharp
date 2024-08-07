@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\bin\Debug\net8.0\Celsius2Fahrenheit.exe
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\bin\Debug\net8.0\Celsius2Fahrenheit.deps.json
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\bin\Debug\net8.0\Celsius2Fahrenheit.runtimeconfig.json
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\bin\Debug\net8.0\Celsius2Fahrenheit.dll
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\bin\Debug\net8.0\Celsius2Fahrenheit.pdb
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.dll
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\refint\Celsius2Fahrenheit.dll
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.pdb
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\Celsius2Fahrenheit.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Basics\Celsius2Fahrenheit\obj\Debug\net8.0\ref\Celsius2Fahrenheit.dll

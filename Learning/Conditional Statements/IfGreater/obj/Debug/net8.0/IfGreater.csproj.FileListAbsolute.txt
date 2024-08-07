@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\bin\Debug\net8.0\IfGreater.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\bin\Debug\net8.0\IfGreater.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\bin\Debug\net8.0\IfGreater.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\bin\Debug\net8.0\IfGreater.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\bin\Debug\net8.0\IfGreater.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\refint\IfGreater.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\IfGreater.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\IfGreater\obj\Debug\net8.0\ref\IfGreater.dll

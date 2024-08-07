@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.exe
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.deps.json
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.runtimeconfig.json
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.dll
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\bin\Debug\net8.0\TrueOrFalse.pdb
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.dll
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\refint\TrueOrFalse.dll
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.pdb
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\TrueOrFalse.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Basics\TrueOrFalse\obj\Debug\net8.0\ref\TrueOrFalse.dll

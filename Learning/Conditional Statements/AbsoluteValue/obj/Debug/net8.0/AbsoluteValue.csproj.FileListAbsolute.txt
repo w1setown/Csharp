@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\bin\Debug\net8.0\AbsoluteValue.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\refint\AbsoluteValue.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\AbsoluteValue.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\AbsoluteValue\obj\Debug\net8.0\ref\AbsoluteValue.dll

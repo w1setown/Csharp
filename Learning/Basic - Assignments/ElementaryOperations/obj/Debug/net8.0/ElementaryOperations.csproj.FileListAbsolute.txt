@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.exe
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.deps.json
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.runtimeconfig.json
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.dll
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.pdb
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.dll
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\refint\ElementaryOperations.dll
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.pdb
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Basics\ElementaryOperations\obj\Debug\net8.0\ref\ElementaryOperations.dll

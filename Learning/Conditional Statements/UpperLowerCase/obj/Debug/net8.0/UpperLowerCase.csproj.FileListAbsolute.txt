@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\bin\Debug\net8.0\UpperLowerCase.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\bin\Debug\net8.0\UpperLowerCase.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\bin\Debug\net8.0\UpperLowerCase.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\bin\Debug\net8.0\UpperLowerCase.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\bin\Debug\net8.0\UpperLowerCase.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\refint\UpperLowerCase.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\UpperLowerCase.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\UpperLowerCase\obj\Debug\net8.0\ref\UpperLowerCase.dll

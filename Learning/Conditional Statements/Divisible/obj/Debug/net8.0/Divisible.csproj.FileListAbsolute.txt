@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\bin\Debug\net8.0\Divisible.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\bin\Debug\net8.0\Divisible.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\bin\Debug\net8.0\Divisible.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\bin\Debug\net8.0\Divisible.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\bin\Debug\net8.0\Divisible.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\refint\Divisible.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\Divisible.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\Divisible\obj\Debug\net8.0\ref\Divisible.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\bin\Debug\net8.0\AddTwoNum.exe
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\bin\Debug\net8.0\AddTwoNum.deps.json
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\bin\Debug\net8.0\AddTwoNum.runtimeconfig.json
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\bin\Debug\net8.0\AddTwoNum.dll
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\bin\Debug\net8.0\AddTwoNum.pdb
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.dll
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\refint\AddTwoNum.dll
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.pdb
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\AddTwoNum.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Basics\AddTwoNum\obj\Debug\net8.0\ref\AddTwoNum.dll

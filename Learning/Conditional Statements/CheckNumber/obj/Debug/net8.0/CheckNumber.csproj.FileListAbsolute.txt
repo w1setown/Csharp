@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\bin\Debug\net8.0\CheckNumber.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\bin\Debug\net8.0\CheckNumber.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\bin\Debug\net8.0\CheckNumber.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\bin\Debug\net8.0\CheckNumber.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\bin\Debug\net8.0\CheckNumber.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\refint\CheckNumber.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\CheckNumber.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckNumber\obj\Debug\net8.0\ref\CheckNumber.dll

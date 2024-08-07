@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\bin\Debug\net8.0\CheckSorted.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\bin\Debug\net8.0\CheckSorted.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\bin\Debug\net8.0\CheckSorted.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\bin\Debug\net8.0\CheckSorted.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\bin\Debug\net8.0\CheckSorted.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\refint\CheckSorted.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\CheckSorted.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckSorted\obj\Debug\net8.0\ref\CheckSorted.dll

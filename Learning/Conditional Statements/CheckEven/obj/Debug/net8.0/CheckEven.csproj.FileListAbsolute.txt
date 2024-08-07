@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\bin\Debug\net8.0\CheckEven.exe
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\bin\Debug\net8.0\CheckEven.deps.json
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\bin\Debug\net8.0\CheckEven.runtimeconfig.json
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\bin\Debug\net8.0\CheckEven.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\bin\Debug\net8.0\CheckEven.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\refint\CheckEven.dll
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.pdb
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\CheckEven.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\ConditionalStatements\CheckEven\obj\Debug\net8.0\ref\CheckEven.dll
