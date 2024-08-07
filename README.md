@@ -1,11 +1,69 @@
+# Basic
+## Add two numbers
+Given three numbers, write a method that adds two first ones and multiplies them by a third one.
 
+### Expected input and output
+AddAndMultiply(2, 4, 5) → 30
 
+<br>
 
+## Celsius to Fahrenheit
+Given a temperature in Celsius degrees, write a method that converts it to Fahrenheit degrees. Remember that temperature below -271.15°C (absolute zero) does not exist!
 
+### Expected input and output
+CtoF(0) → "T = 32F"
 
+CtoF(100) → "T = 212F"
 
+CtoF(-300) → "Temperature below absolute zero!"
 
+<br>
 
+## Elementary operations
+Given two integers, write a method that returns results of their elementary arithmetic operations: addition, substraction, multiplication, division. Remember that you can't divide any number by 0!
+
+### Expected input and output
+ElementaryOperations(3, 8) → 11, -5, 24, 0.375
+
+<br>
+
+## Is result the same
+Given two different arithmetic operations (addition, subtraction, multiplication, division), write a method that checks if they return the same result.
+
+### Expected input and output
+IsResultTheSame(2+2, 2*2) → true
+
+IsResultTheSame(9/3, 16-1) → false
+
+<br>
+
+## Modulo operations
+Given three integers, write a method that returns first number divided modulo by second one and these divided modulo by third one.
+
+### Expected input and output
+ModuloOperations(8, 5, 2) → 1
+
+<br>
+
+## The cube of
+Given a number, write a method that returns its cube.
+
+### Expected input and output
+CubeOf(2) → 8
+
+CubeOf(-5.5) → -166.375
+
+<br>
+
+## Swap two numbers
+Given two integers, write a method that swaps them using temporary variable.
+
+### Expected input and output
+SwapTwoNumbers(87, 45) → "Before: a = 87, b = 45; After: a = 45, b = 87"
+
+SwapTwoNumbers(-13, 2) → "Before: a = -13, b = 2; After: a = 2, b = -13"
+
+<br>
 
 
 
