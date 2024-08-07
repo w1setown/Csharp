@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\mExtraction\bin\Debug\net8.0\mExtraction.exe
+C:\Users\HFGF\source\repos\Loops\mExtraction\bin\Debug\net8.0\mExtraction.deps.json
+C:\Users\HFGF\source\repos\Loops\mExtraction\bin\Debug\net8.0\mExtraction.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\mExtraction\bin\Debug\net8.0\mExtraction.dll
+C:\Users\HFGF\source\repos\Loops\mExtraction\bin\Debug\net8.0\mExtraction.pdb
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.dll
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\refint\mExtraction.dll
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.pdb
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\mExtraction.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\mExtraction\obj\Debug\net8.0\ref\mExtraction.dll

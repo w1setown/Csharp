@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\Sum&Average\bin\Debug\net8.0\Sum&Average.exe
+C:\Users\HFGF\source\repos\Loops\Sum&Average\bin\Debug\net8.0\Sum&Average.deps.json
+C:\Users\HFGF\source\repos\Loops\Sum&Average\bin\Debug\net8.0\Sum&Average.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\Sum&Average\bin\Debug\net8.0\Sum&Average.dll
+C:\Users\HFGF\source\repos\Loops\Sum&Average\bin\Debug\net8.0\Sum&Average.pdb
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.dll
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\refint\Sum&Average.dll
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.pdb
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\Sum&Average.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\Sum&Average\obj\Debug\net8.0\ref\Sum&Average.dll

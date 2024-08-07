@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\TheBigNum\bin\Debug\net8.0\TheBigNum.exe
+C:\Users\HFGF\source\repos\Loops\TheBigNum\bin\Debug\net8.0\TheBigNum.deps.json
+C:\Users\HFGF\source\repos\Loops\TheBigNum\bin\Debug\net8.0\TheBigNum.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\TheBigNum\bin\Debug\net8.0\TheBigNum.dll
+C:\Users\HFGF\source\repos\Loops\TheBigNum\bin\Debug\net8.0\TheBigNum.pdb
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.dll
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\refint\TheBigNum.dll
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.pdb
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\TheBigNum.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\TheBigNum\obj\Debug\net8.0\ref\TheBigNum.dll

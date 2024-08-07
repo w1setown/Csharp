@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\mSequence\bin\Debug\net8.0\mSequence.exe
+C:\Users\HFGF\source\repos\Loops\mSequence\bin\Debug\net8.0\mSequence.deps.json
+C:\Users\HFGF\source\repos\Loops\mSequence\bin\Debug\net8.0\mSequence.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\mSequence\bin\Debug\net8.0\mSequence.dll
+C:\Users\HFGF\source\repos\Loops\mSequence\bin\Debug\net8.0\mSequence.pdb
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.dll
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\refint\mSequence.dll
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.pdb
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\mSequence.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\mSequence\obj\Debug\net8.0\ref\mSequence.dll

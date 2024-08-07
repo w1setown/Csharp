@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\bin\Debug\net8.0\IncreasingAdjacent.exe
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\bin\Debug\net8.0\IncreasingAdjacent.deps.json
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\bin\Debug\net8.0\IncreasingAdjacent.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\bin\Debug\net8.0\IncreasingAdjacent.dll
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\bin\Debug\net8.0\IncreasingAdjacent.pdb
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.dll
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\refint\IncreasingAdjacent.dll
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.pdb
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\IncreasingAdjacent.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\IncreasingAdjacent\obj\Debug\net8.0\ref\IncreasingAdjacent.dll

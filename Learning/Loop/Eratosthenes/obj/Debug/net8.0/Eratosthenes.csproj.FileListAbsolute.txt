@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\bin\Debug\net8.0\Eratosthenes.exe
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\bin\Debug\net8.0\Eratosthenes.deps.json
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\bin\Debug\net8.0\Eratosthenes.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\bin\Debug\net8.0\Eratosthenes.dll
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\bin\Debug\net8.0\Eratosthenes.pdb
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.dll
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\refint\Eratosthenes.dll
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.pdb
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\Eratosthenes.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\Eratosthenes\obj\Debug\net8.0\ref\Eratosthenes.dll

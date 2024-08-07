@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\Two7\bin\Debug\net8.0\Two7.exe
+C:\Users\HFGF\source\repos\Loops\Two7\bin\Debug\net8.0\Two7.deps.json
+C:\Users\HFGF\source\repos\Loops\Two7\bin\Debug\net8.0\Two7.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\Two7\bin\Debug\net8.0\Two7.dll
+C:\Users\HFGF\source\repos\Loops\Two7\bin\Debug\net8.0\Two7.pdb
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.dll
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\refint\Two7.dll
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.pdb
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\Two7.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\Two7\obj\Debug\net8.0\ref\Two7.dll

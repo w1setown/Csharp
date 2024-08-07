@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Loops\Triangle\bin\Debug\net8.0\Triangle.exe
+C:\Users\HFGF\source\repos\Loops\Triangle\bin\Debug\net8.0\Triangle.deps.json
+C:\Users\HFGF\source\repos\Loops\Triangle\bin\Debug\net8.0\Triangle.runtimeconfig.json
+C:\Users\HFGF\source\repos\Loops\Triangle\bin\Debug\net8.0\Triangle.dll
+C:\Users\HFGF\source\repos\Loops\Triangle\bin\Debug\net8.0\Triangle.pdb
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.dll
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\refint\Triangle.dll
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.pdb
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\Triangle.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Loops\Triangle\obj\Debug\net8.0\ref\Triangle.dll
