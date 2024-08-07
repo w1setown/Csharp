@@ -10,9 +10,80 @@
 
 
 
+# Conditional Statements
+## Absolute value
+Given an integer, write a method that returns its absolute value.
+
+### Expected input and output
+AbsoluteValue(6832) → 6832
+
+AbsoluteValue(-392) → 392
+<br>
+## Divisible by 2 or 3
+Given two integers, write a method that returns their multiplication if they are both divisible by 2 or 3, otherwise returns thier sum.
+
+### Expected input and output
+DivisibleBy2Or3(15, 30) → 450
+
+DivisibleBy2Or3(2, 90) → 180
+
+DivisibleBy2Or3(7, 12) → 19
+<br>
+## If consists of uppercase letters
+Given a 3 characters long string, write a method that checks if it consists only of uppercase letters.
+
+###Expected input and output
+IfConsistsOfUppercaseLetters("xyz") → false
+
+IfConsistsOfUppercaseLetters("DOG") → true
+
+IfConsistsOfUppercaseLetters("L9#") → false
+<br>
+## If greater than third one
+Given an array of 3 integers, write a method that checks if multiplication or sum of two first numbers is greater than third one.
+
+### Expected input and output
+IfGreaterThanThirdOne([2, 7, 12]) → true
+
+IfGreaterThanThirdOne([-5, -8, 50]) → false
+<br>
+## If number is even
+Given an integer, write a method that checks if it is even.
+
+### Expected input and output
+IfNumberIsEven(721) → false
+
+IfNumberIsEven(1248) → true
+<br>
+## If sorted ascending
+Given an array of three integers, write a method that checks if they are sorted in ascending order.
+
+### Expected input and output
+IfSortedAscending([3, 7, 10])→ true
+
+IfSortedAscending([74, 62, 99])→ false
+<br>
+## Positive, negative or zero
+Given a number, write a method that checks if it is positive, negative or zero.
+
+### Expected input and output
+PositiveNegativeOrZero(5.24) → positive
+
+PositiveNegativeOrZero(0.0) → zero
+
+PositiveNegativeOrZero(-994.53) → negative
+<br>
+## If year is leap
+Given a year as integer, write a method that checks if year is leap.
+
+### Expected input and output
+IfYearIsLeap(2016) → true
 
 
 
+
+
+<br>
 
 # Loops
 
@@ -33,6 +104,7 @@ Write a method that prints 10 by 10 multiplication table. Remember readability (
  10  20  30  40  50  60  70  80  90 100
 ```
 <br>
+
 ## The biggest number
 Given an array of integers, write a method that returns the biggest number in this array.
 
@@ -52,7 +124,7 @@ Two7sNextToEachOther([ 9, 4, 5, 3, 7, 7, 7, 3, 2, 5, 7, 7 ]) → 3
 ## Three increasing adjacent
 Given an array of numbers, write a method that checks if there are three adjacent numbers where second is greater by 1 than the first one and third is greater by 1 than the second one.
 
-###Expected input and output
+### Expected input and output
 ThreeIncreasingAdjacent([45, 23, 44, 68, 65, 70, 80, 81, 82 ]) → True
 
 ThreeIncreasingAdjacent([7, 3, 5, 8, 9, 3, 1, 4 ]) → False
@@ -92,6 +164,7 @@ SumAndAverage(11, 66) → "Sum: 2156, Average: 38.5"
 SumAndAverage(-10, 0) → "Sum: -55, Average: -5"
 
 <br>
+
 ## Draw triangle
 Write a method that draws triangle shape like below.
 
