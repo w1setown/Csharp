@@ -1,0 +1,15 @@
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\bin\Debug\net8.0\Number of words.exe
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\bin\Debug\net8.0\Number of words.deps.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\bin\Debug\net8.0\Number of words.runtimeconfig.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\bin\Debug\net8.0\Number of words.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\bin\Debug\net8.0\Number of words.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.AssemblyInfoInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.AssemblyInfo.cs
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.sourcelink.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\refint\Number of words.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\Number of words.genruntimeconfig.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Number of words\obj\Debug\net8.0\ref\Number of words.dll

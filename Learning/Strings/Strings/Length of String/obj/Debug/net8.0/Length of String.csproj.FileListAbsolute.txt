@@ -1,0 +1,15 @@
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\bin\Debug\net8.0\Length of String.exe
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\bin\Debug\net8.0\Length of String.deps.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\bin\Debug\net8.0\Length of String.runtimeconfig.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\bin\Debug\net8.0\Length of String.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\bin\Debug\net8.0\Length of String.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.AssemblyInfoInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.AssemblyInfo.cs
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.sourcelink.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\refint\Length of String.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\Length of String.genruntimeconfig.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Length of String\obj\Debug\net8.0\ref\Length of String.dll

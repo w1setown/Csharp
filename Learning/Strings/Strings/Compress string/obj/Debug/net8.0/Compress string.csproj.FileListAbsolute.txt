@@ -1,0 +1,15 @@
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\bin\Debug\net8.0\Compress string.exe
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\bin\Debug\net8.0\Compress string.deps.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\bin\Debug\net8.0\Compress string.runtimeconfig.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\bin\Debug\net8.0\Compress string.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\bin\Debug\net8.0\Compress string.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.AssemblyInfoInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.AssemblyInfo.cs
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.sourcelink.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\refint\Compress string.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\Compress string.genruntimeconfig.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Compress string\obj\Debug\net8.0\ref\Compress string.dll

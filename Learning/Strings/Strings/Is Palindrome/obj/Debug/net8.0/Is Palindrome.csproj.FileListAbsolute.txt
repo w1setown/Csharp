@@ -1,0 +1,15 @@
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\bin\Debug\net8.0\Is Palindrome.exe
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\bin\Debug\net8.0\Is Palindrome.deps.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\bin\Debug\net8.0\Is Palindrome.runtimeconfig.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\bin\Debug\net8.0\Is Palindrome.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\bin\Debug\net8.0\Is Palindrome.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.AssemblyInfoInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.AssemblyInfo.cs
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.sourcelink.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\refint\Is Palindrome.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\Is Palindrome.genruntimeconfig.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\Is Palindrome\obj\Debug\net8.0\ref\Is Palindrome.dll

@@ -1,0 +1,15 @@
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\bin\Debug\net8.0\How many occurrences.exe
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\bin\Debug\net8.0\How many occurrences.deps.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\bin\Debug\net8.0\How many occurrences.runtimeconfig.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\bin\Debug\net8.0\How many occurrences.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\bin\Debug\net8.0\How many occurrences.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.AssemblyInfoInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.AssemblyInfo.cs
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.sourcelink.json
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\refint\How many occurrences.dll
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.pdb
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\How many occurrences.genruntimeconfig.cache
+C:\Users\HFGF\Documents\GitHub\Csharp\Learning\Strings\Strings\How many occurrences\obj\Debug\net8.0\ref\How many occurrences.dll
