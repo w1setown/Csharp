@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\bin\Debug\net8.0\AvanceretLommeregner.exe
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\bin\Debug\net8.0\AvanceretLommeregner.deps.json
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\bin\Debug\net8.0\AvanceretLommeregner.runtimeconfig.json
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\bin\Debug\net8.0\AvanceretLommeregner.dll
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\bin\Debug\net8.0\AvanceretLommeregner.pdb
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.dll
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\refint\AvanceretLommeregner.dll
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.pdb
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\AvanceretLommeregner.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Lommeregner\AvanceretLommeregner\obj\Debug\net8.0\ref\AvanceretLommeregner.dll

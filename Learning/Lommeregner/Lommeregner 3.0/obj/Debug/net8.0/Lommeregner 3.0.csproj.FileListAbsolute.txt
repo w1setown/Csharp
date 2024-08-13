@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\bin\Debug\net8.0\Lommeregner 3.0.exe
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\bin\Debug\net8.0\Lommeregner 3.0.deps.json
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\bin\Debug\net8.0\Lommeregner 3.0.runtimeconfig.json
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\bin\Debug\net8.0\Lommeregner 3.0.dll
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\bin\Debug\net8.0\Lommeregner 3.0.pdb
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.dll
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\refint\Lommeregner 3.0.dll
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.pdb
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\Lommeregner 3.0.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner 3.0\obj\Debug\net8.0\ref\Lommeregner 3.0.dll
