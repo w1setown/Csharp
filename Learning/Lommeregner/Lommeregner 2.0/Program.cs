@@ -72,7 +72,7 @@
                     string svar = Console.ReadLine().ToLower();
                     if (svar != "ja")
                     {
-                        continueCalculating = false;
+                        forrsæt = false;
                     }
                 }
             }
