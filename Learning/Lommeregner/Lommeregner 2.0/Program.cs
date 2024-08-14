@@ -13,9 +13,9 @@
             Console.WriteLine("Indtast det første tal: ");
             nummer1 = Convert.ToDouble(Console.ReadLine());
 
-            bool continueCalculating = true;
+            bool forrsæt= true;
 
-            while (continueCalculating)
+            while (forrsæt)
             {
                 Console.WriteLine("Indtast det næste tal: ");
                 nummer2 = Convert.ToDouble(Console.ReadLine());
@@ -59,7 +59,7 @@
                 }
                 else if (valg == "x")
                 {
-                    continueCalculating = false;
+                    forrsæt = false;
                 }
                 else
                 {
