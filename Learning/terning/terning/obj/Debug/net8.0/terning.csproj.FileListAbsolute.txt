@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\terning\terning\bin\Debug\net8.0\terning.exe
+C:\Users\HFGF\source\repos\terning\terning\bin\Debug\net8.0\terning.deps.json
+C:\Users\HFGF\source\repos\terning\terning\bin\Debug\net8.0\terning.runtimeconfig.json
+C:\Users\HFGF\source\repos\terning\terning\bin\Debug\net8.0\terning.dll
+C:\Users\HFGF\source\repos\terning\terning\bin\Debug\net8.0\terning.pdb
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.dll
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\refint\terning.dll
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.pdb
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\terning.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\terning\terning\obj\Debug\net8.0\ref\terning.dll
